@@ -1,4 +1,4 @@
-# terraforaws-rds
+# terraform-aws-rds
 ```
 module "db" {
     source = "../"
